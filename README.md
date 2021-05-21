@@ -1,5 +1,4 @@
-### Yo! I am Yar aka HaselLoyance
-#### :canada:/:ru:
+### Yo! I am Yar aka HaselLoyance :canada:/:ru:
 I am a third year student at University of Manitoba, heading straight for the Computer Science joint Mathematics Diploma. On my free time I enjoy doing lots of random open-source projects.
  
  
